@@ -10,7 +10,7 @@ Summary:        A tool to make you happy
 
 License:        Beerware
 # random source
-Source:         https://github.com/pcahyna/auto-maintenance/archive/%{mainid}.tar.gz#/auto-maintenance-%{mainid}.tar.gz
+Source0:         https://github.com/pcahyna/auto-maintenance/archive/%{mainid}.tar.gz#/auto-maintenance-%{mainid}.tar.gz
 # source with the specfile
 Source1:        %{upstream_name}-%{version}.tar.gz
 BuildArch:      noarch
